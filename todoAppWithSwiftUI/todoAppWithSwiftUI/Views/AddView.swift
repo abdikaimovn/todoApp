@@ -25,7 +25,7 @@ struct AddView: View {
                         .foregroundColor(.white)
                         .frame(height: 50)
                         .frame(maxWidth: .infinity)
-                        .background(.blue)
+                        .background(Color.accentColor)
                         .cornerRadius(10)
                 }
 
